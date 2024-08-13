@@ -39,7 +39,7 @@ ujson==5.10.0
 uvicorn==0.29.0
 websockets==12.0
 fastapi==0.45.0
-numpy>=1.17.3
+numpy==1.17.3
 scikit-learn==1.1.2
 xgboost
 joblib
