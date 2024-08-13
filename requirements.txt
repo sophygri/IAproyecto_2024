@@ -41,5 +41,5 @@ fastapi==0.45.0
 numpy==1.17.3
 scikit-learn==1.1.2
 xgboost==2.1.1 
-setuptools>=65.5.0
-wheel>=0.44.0
+setuptools<=65.5.0
+wheel<=0.44.0
