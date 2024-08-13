@@ -16,7 +16,6 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mdurl==0.1.2
 nltk==3.8.1
-numpy==1.26.4
 orjson==3.10.3
 packaging==24.0
 pandas==2.2.2
@@ -42,4 +41,3 @@ fastapi==0.45.0
 numpy==1.17.3
 scikit-learn==1.1.2
 xgboost
-joblib
