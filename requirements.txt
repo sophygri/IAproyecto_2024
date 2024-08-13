@@ -41,3 +41,4 @@ fastapi==0.45.0
 numpy==1.17.3
 scikit-learn==1.1.2
 xgboost
+wheel
